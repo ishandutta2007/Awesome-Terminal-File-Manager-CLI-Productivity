@@ -66,7 +66,7 @@ Below are leading commercial and hosted file management and transfer platforms, 
 
 ## 🚀 Open-Source GitHub Projects (Ranked by Stars)
 
-Every open-source project below includes a live star badge linking directly to the repository's stargazers community.
+Every open-source project below includes a live Stars_Badge linking directly to the repository's stargazers community.
 
 ### 🗂️ Core TUI & Dual-Pane File Managers
 
@@ -176,7 +176,7 @@ Contributions are warmly welcome! Help make this curated index the gold standard
 1. 🍴 **Fork** the repository.
 2. 🌿 **Create a branch** for your addition (`git checkout -b feature/add-new-file-tool`).
 3. 📝 **Add your entry** under the appropriate section following the existing formatting:
-   - Include tool name, official link, GitHub repository, social star badge, and an accurate 1–2 sentence description.
+   - Include tool name, official link, GitHub repository, social Stars_Badge, and an accurate 1–2 sentence description.
 4. 📬 **Submit a Pull Request** with details on why the tool benefits the CLI ecosystem.
 
 ---
