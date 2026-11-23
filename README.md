@@ -1,5 +1,4 @@
 # Awesome-Terminal-File-Manager-CLI-Productivity
-# Awesome-Terminal-File-Manager-CLI-Productivity
 
 ## Top Terminal File Manager & CLI Productivity Ecosystem
 
@@ -43,41 +42,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Total Commander](https://ghisler.com)**  
-
-  Iconic commercial dual-pane file manager for Windows and Android featuring cloud storage plugins (Google Drive, Dropbox, OneDrive, S3), built-in FTP/SFTP, and batch renaming.
-
-
-
-- **[ForkLift](https://binarynights.com)**  
-
-  Commercial dual-pane file manager and file transfer client for macOS with native cloud integrations for Amazon S3, Google Drive, Dropbox, Backblaze B2, and SFTP.
-
-
-
-- **[Commander One](https://commander-one.com)**  
-
-  Proprietary dual-pane file manager for macOS built in Swift that mounts cloud drives (AWS S3, Google Drive, OneDrive, Dropbox) as local volumes alongside a built-in terminal emulator.
-
-
-
-- **[Directory Opus](https://gpsoft.com.au)**  
-
-  Commercial advanced file manager and Explorer replacement for Windows offering multi-pane layouts, FTP/cloud sync, scripting, and batch file operations.
-
-
-
-- **[Path Finder](https://cocoatech.io)**  
-
-  Commercial macOS file browser featuring dual-pane navigation, integrated terminal panes, Dropbox/cloud sync, and advanced batch file manipulation.
-
-
-
-- **[FileBrowser / Web Cloud File Managers (Commercial Tiers)](https://files.com)**  
-
-  Cloud-hosted enterprise file management and transfer platforms providing web, CLI, and SFTP access across multi-cloud storage backends.
+| Platform | Description | Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[Total Commander](https://ghisler.com)** | Iconic commercial dual-pane file manager for Windows and Android featuring cloud storage plugins (Google Drive, Dropbox, OneDrive, S3), built-in FTP/SFTP, and batch renaming. | Single license from €42 (one-time purchase, lifetime free updates; €31.50 student rate) | 30-day free trial with fully functional features (shows startup 1-2-3 nag screen after 30 days); Android version is 100% free forever |
+| **[ForkLift](https://binarynights.com)** | Commercial dual-pane file manager and file transfer client for macOS with native cloud integrations for Amazon S3, Google Drive, Dropbox, Backblaze B2, and SFTP. | Single user license at $19.95 (one-time purchase including 1 year of updates) | Free trial with no time limit and full features unlocked (shows periodic registration reminder popup without interrupting file transfers) |
+| **[Commander One](https://commander-one.com)** | Proprietary dual-pane file manager for macOS built in Swift that mounts cloud drives (AWS S3, Google Drive, OneDrive, Dropbox) as local volumes alongside a built-in terminal emulator. | PRO Pack personal license at $29.99 (one-time purchase) | Free forever plan with basic dual-pane file management; 14-day free trial for PRO Pack with all features unlocked |
+| **[Directory Opus](https://gpsoft.com.au)** | Commercial advanced file manager and Explorer replacement for Windows offering multi-pane layouts, FTP/cloud sync, scripting, and batch file operations. | Pro edition single licence from $89 AUD (~$58 USD, one-time purchase with 1 year free updates) | 30-day free trial (extendable to 60 days upon free email registration) with full Pro feature access and no credit card required |
+| **[Path Finder](https://cocoatech.io)** | Commercial macOS file browser featuring dual-pane navigation, integrated terminal panes, Dropbox/cloud sync, and advanced batch file manipulation. | Subscription at $29.95/year (or 1-year standalone license at $32.95) | 30-day free trial with full feature access and no functional restrictions |
+| **[Files.com](https://files.com)** | Cloud-hosted enterprise file management and transfer platform providing web, CLI, and SFTP access across multi-cloud storage backends. | Starter plan at $199/month (includes 10 full users and 50 system users; additional full users at $12/month) | 7-day free trial with full platform access, no credit card required |
 
 
 
